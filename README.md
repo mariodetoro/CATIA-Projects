@@ -14,9 +14,9 @@ Contains CAD models developed for the EUROC competition as part of the LEEM team
 
 A variety of personal CAD models primarily created for practice. Notably, this folder includes two larger projects:
 
-Wing Part
+- Wing Part
 
-Utensil
+- Utensil
 
 Each project includes a corresponding draft and was originally developed for college assignments.
 
