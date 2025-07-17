@@ -1,0 +1,16 @@
+27,Separador,,4,1.4001,M4x19,D4_3L19D6
+26,Tornillo,,4,1.4001,M4x25,ISO 4762 
+25,Tuerca,,4,1.4001,M4,DIN 934
+24,Arandela,,8,1.4001,M4,ISO 7089 
+23,Rótula,,4,Acero/bronce,D16xD8,GE 8 C
+22,Casquillo B,SELFOIL,4,CuSn6,,B-8-12-8/16-2
+21,Casquillo A,SELFOIL,4,CuSn6,,A-8-12-10
+20,Arandela,,4,1.4001,M6,ISO 7089
+19,Arandela,,4,1.4001,M8,ISO 7089
+18,Tuerca,,4,1.4001,M6,DIN 934
+17,Tornillo de fijación,,4,1.4001,D8-M6-25,ISO 7379
+5,Horquilla,DG2425-TIV03-001-005,8,EN-AW 2024,22x29x56,
+4,Balancin,DG2425-TIV03-001-004,2,EN-AW 7075,13x85.23x19,
+1,Tubo,DG2425-TIV03-001-001,4,EN-AW 2024,D13.5x180,
+Marca,Denominación,N.º de Plano,"N.º de
+ Piezas",Material,Dimensiones,Observaciones
